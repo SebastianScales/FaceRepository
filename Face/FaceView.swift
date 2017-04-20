@@ -125,6 +125,7 @@ class FaceView: UIView {
         path.lineWidth = linewidth
         
         return path
+        print("hi")
     }
     
 
